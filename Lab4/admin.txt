@@ -1,0 +1,14 @@
+Username: user
+Password: 1216985755
+2019-10-23 admin logged in to a system
+2019-10-23 admin added course 1
+2019-10-23 admin logged in to a system
+2019-10-23 admin added course a
+2019-10-23 admin logged in to a system
+2019-10-23 admin added course a
+2019-10-23 admin logged in to a system
+2019-10-23 admin added textbook a
+2019-10-23 admin logged in to a system
+2019-10-23 admin added textbook a
+2019-10-23 admin logged in to a system
+2019-10-23 admin added course a

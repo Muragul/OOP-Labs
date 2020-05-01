@@ -1,0 +1,8 @@
+Ivanov Ivan 100
+Aliyev Ali 22
+Menshikov Sergey 65 
+Lebedeva Alisa 100
+LEBEDEVA ALISA 100
+lebedeva alisa 100
+LeBeDeVa AlIsA 100
+lEbEdEvA aLiSa 100
